@@ -231,6 +231,8 @@ export default {
     padding-top:rem(60);
     color:black;
 }
+
+
 //制作向下弹出的动画
 
 @keyframes windows {
